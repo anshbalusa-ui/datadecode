@@ -1,0 +1,11 @@
+check,result,interpretation
+Raw observations,109,Before cleaning.
+Analysis-ready observations,108,One exact duplicate removed.
+Teams,18,3470 plus 17 anonymized teams.
+Missing cycle_time_sec,2,Both are T12; no imputation used.
+Missing qualitative_note,17,Notes are optional qualitative evidence; numeric metrics retained.
+Result/score conflicts,0,No W/L records conflict with final scores.
+Extreme low-confidence CL rows excluded from CL aggregates,1,T05 M14-T05-3 only.
+Ambiguous M## prefixes with conflicting same-alliance scores,36/36,"Match-prefix semantics are uncertain; context-based overrated/underrated conclusions are provisional, not verified event results."
+Prefixes with >2 observations on one color,6,Cannot safely treat M## as an official event match number; do not use for alliance joining.
+Per-team sample size,6 matches/team,Small sample size limits certainty and makes rank sensitivity important.

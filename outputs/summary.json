@@ -1,0 +1,37 @@
+{
+  "raw_rows": 109,
+  "clean_rows": 108,
+  "teams": 18,
+  "ambiguous_match_prefix_groups": 36,
+  "match_prefix_groups_total": 36,
+  "overall_top5": [
+    "T08",
+    "T14",
+    "T05",
+    "T17",
+    "T07"
+  ],
+  "team_3470_overall_rank": 6,
+  "team_3470_overall_score": 56.66,
+  "team_3470_best_partners": [
+    "T08",
+    "T14",
+    "T17",
+    "T02",
+    "T06"
+  ],
+  "most_reliable": [
+    "T02",
+    "T17",
+    "3470",
+    "T08",
+    "T03"
+  ],
+  "figures": [
+    "figures/overall_ranking.png",
+    "figures/compatibility_ranking.png",
+    "figures/team_3470_profile.png",
+    "figures/team_3470_cycle_trend.png",
+    "figures/team_3470_actions_trend.png"
+  ]
+}

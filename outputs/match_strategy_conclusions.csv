@@ -1,0 +1,5 @@
+conclusion,evidence,confidence
+Preserve the opening-speed advantage.,3470 is 88th percentile in cycle speed and 6/6 on auto leave.,High
+Do not rely on late-match overflow throughput without a backup route.,Cycle time slows across the six matches and the same overflow-slowdown note appears three times.,Medium-High
+Prefer partners that add CL/depot scoring and defense.,"3470 is only 41st percentile in CL, 35th in depot, and 41st in defense, while its speed/reliability are stronger.",Medium
+"Against high-risk/high-ceiling opponents, favor clean high-floor play.",Several top-volume teams (especially T07) carry meaningful breakdown risk; 3470 itself has zero recorded breakdowns.,Medium

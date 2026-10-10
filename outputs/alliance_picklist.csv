@@ -1,0 +1,18 @@
+pick_order,team_id,compatibility_score,reason,major_risk,confidence,avoid_flag
+1,T08,72.45,Best fit areas: defense and CL scoring.,2.2/5 driver consistency,High,
+2,T14,63.01,Best fit areas: depot scoring and CL scoring.,2.9/5 driver consistency,Medium,
+3,T17,62.25,Best fit areas: depot scoring and motif completion.,6.0 avg penalty points,Medium,
+4,T02,58.96,Best fit areas: reliability and defense.,no major measured risk,Medium,
+5,T06,57.84,Best fit areas: depot scoring and motif completion.,no major measured risk,Medium,
+6,T05,57.71,Best fit areas: CL scoring and reliability.,6.5 avg penalty points; 2.2/5 driver consistency; data-quality uncertainty,Medium,
+7,T15,55.22,Best fit areas: depot scoring and reliability.,6.2 avg penalty points; 2.9/5 driver consistency,High,
+8,T07,54.26,Best fit areas: depot scoring and motif completion.,50% breakdown rate,Medium,
+9,T12,49.36,Best fit areas: CL scoring and reliability.,data-quality uncertainty,Low,
+10,T09,49.36,Best fit areas: defense and motif completion.,33% breakdown rate,Medium,
+11,T10,46.59,Best fit areas: motif completion and defense.,6.5 avg penalty points; 2.9/5 driver consistency,High,
+12,T01,45.44,Best fit areas: defense and CL scoring.,no major measured risk,Medium,
+13,T03,43.38,Best fit areas: reliability and defense.,no major measured risk,Low,
+14,T16,41.83,Best fit areas: motif completion and depot scoring.,7.0 avg penalty points,Medium,
+15,T13,35.06,Best fit areas: defense and reliability.,no major measured risk,High,AVOID IF BETTER OPTIONS REMAIN
+16,T04,30.52,Best fit areas: depot scoring and motif completion.,33% breakdown rate; 8.5 avg penalty points; 2.8/5 driver consistency,High,AVOID IF BETTER OPTIONS REMAIN
+17,T11,23.75,Best fit areas: reliability and CL scoring.,50% breakdown rate,High,AVOID IF BETTER OPTIONS REMAIN

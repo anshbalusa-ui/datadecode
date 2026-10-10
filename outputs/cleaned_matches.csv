@@ -1,0 +1,109 @@
+match_id,team_id,match_number,alliance,scout_id,auto_leave,cl_scored,overflow_scored,motif_completed,depot_scored,cycle_time_sec,penalty_points,breakdown_flag,defense_rating,driver_consistency,scout_confidence,alliance_score,opponent_score,match_result,qualitative_note,analysis_excluded_from_cl,cl_scored_analysis,data_quality_flag
+M02-3470-1,3470,1,Blue,S2,1,5,4,1,2,11.9,0,0,3.2,4.5,5,82,42,W,fast setup,0,5,
+M03-3470-2,3470,2,Blue,S3,1,5,3,0,4,12.9,9,0,2.2,4.4,4,75,48,W,inconsistent intake timing,0,5,
+M04-3470-3,3470,3,Blue,S2,1,5,4,1,2,16.3,4,0,2.7,4.4,4,69,67,W,stable cycles,0,5,
+M05-3470-4,3470,4,Blue,S2,1,6,2,0,2,14.0,4,0,3.1,3.8,5,92,87,W,overflow mechanism slows late event,0,6,
+M06-3470-5,3470,5,Red,S1,1,4,2,0,3,16.5,1,0,2.4,3.6,3,61,92,L,overflow mechanism slows late event,0,4,
+M07-3470-6,3470,6,Red,S3,1,4,3,1,3,18.6,6,0,3.5,4.2,3,61,67,L,overflow mechanism slows late event,0,4,
+M04-T01-1,T01,1,Blue,S2,1,6,4,0,0,18.9,3,0,3.7,4.4,5,86,84,W,fast setup,0,6,
+M05-T01-2,T01,2,Blue,S4,1,7,3,0,2,16.0,5,0,4.0,3.6,5,69,40,W,,0,7,missing_qualitative_note
+M06-T01-3,T01,3,Blue,S4,1,2,2,0,2,22.1,2,1,3.6,5.0,5,44,86,L,,0,2,missing_qualitative_note
+M07-T01-4,T01,4,Blue,S1,0,6,3,0,1,13.6,1,0,3.6,5.0,5,80,84,L,,0,6,missing_qualitative_note
+M08-T01-5,T01,5,Blue,S3,1,8,2,0,2,16.8,1,0,4.9,5.0,4,71,49,W,inconsistent intake timing,0,8,
+M09-T01-6,T01,6,Blue,S4,1,5,5,0,2,22.1,4,0,3.5,4.5,3,69,76,L,good field awareness,0,5,
+M06-T02-1,T02,1,Blue,S2,1,3,4,1,3,19.9,5,0,3.5,4.4,5,63,66,L,strong late-match recovery,0,3,
+M07-T02-2,T02,2,Blue,S4,1,4,3,1,3,16.8,0,0,3.3,4.7,5,64,93,L,inconsistent intake timing,0,4,
+M08-T02-3,T02,3,Blue,S1,1,6,5,1,2,17.7,2,0,3.4,3.7,4,82,81,W,good field awareness,0,6,
+M09-T02-4,T02,4,Red,S2,1,4,3,1,2,15.4,9,0,3.3,4.8,4,62,45,W,clean positioning,0,4,
+M10-T02-5,T02,5,Red,S1,1,5,3,0,3,20.9,6,0,3.9,3.7,3,59,82,L,hesitant under defense,0,5,
+M11-T02-6,T02,6,Blue,S3,1,7,1,0,3,19.4,6,0,3.4,4.1,4,55,80,L,clean positioning,0,7,
+M08-T03-1,T03,1,Red,S3,1,4,6,0,1,15.0,3,0,2.9,3.8,3,67,65,W,strong late-match recovery,0,4,
+M09-T03-2,T03,2,Blue,S4,1,5,7,1,0,18.3,7,0,3.0,3.7,3,61,62,L,strong late-match recovery,0,5,
+M10-T03-3,T03,3,Blue,S2,0,4,6,0,2,23.6,3,0,2.5,3.9000000000000004,4,53,73,L,stable cycles,0,4,
+M11-T03-4,T03,4,Red,S4,1,5,4,0,0,18.9,1,0,2.8,3.3,3,46,69,L,stable cycles,0,5,
+M12-T03-5,T03,5,Blue,S3,0,5,6,0,1,24.7,5,0,4.1,4.0,4,59,66,L,strong late-match recovery,0,5,
+M13-T03-6,T03,6,Blue,S3,1,6,7,1,1,19.5,4,0,3.5,2.8,3,94,81,W,fast setup,0,6,
+M10-T04-1,T04,1,Blue,S4,1,3,3,0,3,17.8,10,0,2.6,3.0,4,44,64,L,inconsistent intake timing,0,3,
+M11-T04-2,T04,2,Red,S3,1,1,2,0,3,25.5,8,1,2.3,2.6,4,38,58,L,fast setup,0,1,cycle_time_high_outlier
+M12-T04-3,T04,3,Blue,S4,1,3,2,0,4,17.6,9,0,2.8,3.0,5,58,80,L,fast setup,0,3,
+M13-T04-4,T04,4,Red,S1,1,2,3,1,4,20.8,8,0,1.4,2.5,5,49,55,L,strong late-match recovery,0,2,
+M14-T04-5,T04,5,Red,S1,1,4,2,1,2,18.3,8,0,2.1,3.2,3,78,69,W,stable cycles,0,4,
+M15-T04-6,T04,6,Red,S3,1,2,0,1,4,21.0,8,1,2.4,2.7,4,68,81,L,fast setup,0,2,
+M12-T05-1,T05,1,Red,S1,1,7,2,0,2,16.6,8,0,3.1,1.5,4,79,46,W,hesitant under defense,0,7,
+M13-T05-2,T05,2,Blue,S1,1,7,5,1,1,16.6,2,0,2.6,2.7,3,83,91,L,minor traffic delays,0,7,
+M14-T05-3,T05,3,Blue,S4,1,28,4,0,2,17.7,9,0,3.0,2.7,2,70,61,W,fast setup,1,,extreme_cl_outlier_low_confidence
+M15-T05-4,T05,4,Blue,S2,1,7,6,0,2,16.7,3,0,2.3,2.3,5,98,49,W,stable cycles,0,7,
+M16-T05-5,T05,5,Blue,S4,1,7,5,0,2,17.4,10,0,4.3,1.9,5,61,66,L,inconsistent intake timing,0,7,
+M17-T05-6,T05,6,Blue,S2,1,6,3,1,2,17.2,7,0,2.9,2.4,4,87,68,W,clean positioning,0,6,
+M14-T06-1,T06,1,Red,S4,1,7,4,0,4,22.1,1,0,3.1,3.1,4,71,61,W,good field awareness,0,7,
+M15-T06-2,T06,2,Red,S3,1,7,4,1,5,19.6,1,0,1.3,3.5,4,108,49,W,clean positioning,0,7,
+M16-T06-3,T06,3,Blue,S1,1,5,5,1,4,19.2,0,0,2.1,3.3,5,105,77,W,clean positioning,0,5,
+M17-T06-4,T06,4,Red,S4,0,1,4,0,4,21.5,0,1,2.1,3.4,5,50,62,L,strong late-match recovery,0,1,
+M18-T06-5,T06,5,Blue,S4,1,7,5,1,4,15.4,0,0,2.4,3.4,4,110,63,W,good field awareness,0,7,
+M19-T06-6,T06,6,Red,S4,1,5,3,1,3,21.1,1,0,3.8,3.9,4,78,81,L,clean positioning,0,5,
+M16-T07-1,T07,1,Red,S2,1,4,6,1,5,13.9,2,0,1.2,4.4,3,87,74,W,stable cycles,0,4,
+M17-T07-2,T07,2,Blue,S1,1,6,6,1,5,15.6,2,0,1.4,4.4,4,75,93,L,,0,6,missing_qualitative_note
+M18-T07-3,T07,3,Red,S2,1,6,5,1,4,16.2,2,0,1.0,4.4,3,76,77,L,hesitant under defense,0,6,
+M19-T07-4,T07,4,Red,S3,1,2,4,1,5,25.6,0,1,1.2,4.4,4,72,57,W,,0,2,missing_qualitative_note; cycle_time_high_outlier
+M20-T07-5,T07,5,Red,S2,1,4,5,0,5,24.9,2,1,1.8,4.4,5,81,92,L,good field awareness,0,4,
+M21-T07-6,T07,6,Red,S1,1,2,5,1,4,22.1,2,1,1.0,4.4,4,88,76,W,hesitant under defense,0,2,
+M18-T08-1,T08,1,Blue,S4,1,5,1,1,4,19.6,8,0,5.0,1.4,4,52,58,L,clean positioning,0,5,
+M19-T08-2,T08,2,Blue,S1,1,5,5,1,3,22.0,5,0,5.0,2.5,5,78,64,W,stable cycles,0,5,
+M20-T08-3,T08,3,Blue,S3,1,7,3,1,4,19.5,8,0,4.2,2.9,4,80,58,W,fast setup,0,7,
+M21-T08-4,T08,4,Blue,S4,1,7,2,1,4,18.0,5,0,3.9,2.3,5,69,64,W,good field awareness,0,7,
+M22-T08-5,T08,5,Blue,S2,1,7,4,1,3,21.8,5,0,5.0,2.2,3,99,55,W,hesitant under defense,0,7,
+M23-T08-6,T08,6,Red,S2,1,9,4,0,2,17.5,3,0,5.0,1.9,5,84,57,W,fast setup,0,9,
+M20-T09-1,T09,1,Red,S4,1,4,2,1,3,11.4,7,0,4.5,3.0,4,81,54,W,,0,4,missing_qualitative_note
+M21-T09-2,T09,2,Red,S1,1,3,2,0,2,15.6,4,0,4.0,2.9,5,46,68,L,,0,3,missing_qualitative_note
+M22-T09-3,T09,3,Red,S1,1,4,1,1,5,17.0,2,1,5.0,2.5,4,79,91,L,good field awareness,0,4,
+M23-T09-4,T09,4,Red,S2,1,3,1,1,2,16.2,2,0,3.6,3.6,5,81,87,L,stable cycles,0,3,
+M24-T09-5,T09,5,Red,S4,1,5,2,1,2,16.6,0,1,4.0,2.9,5,86,68,W,stable cycles,0,5,
+M25-T09-6,T09,6,Red,S2,1,3,3,0,3,15.1,8,0,3.8,3.5,3,73,67,W,,0,3,missing_qualitative_note
+M22-T10-1,T10,1,Red,S3,1,7,2,1,2,14.7,5,0,3.8,2.3,4,91,54,W,clean positioning,0,7,
+M23-T10-2,T10,2,Red,S3,0,5,2,1,2,15.5,7,0,4.6,3.0,4,80,65,W,,0,5,missing_qualitative_note
+M24-T10-3,T10,3,Red,S4,1,5,1,1,2,13.4,10,0,4.4,3.0,3,67,75,L,strong late-match recovery,0,5,
+M25-T10-4,T10,4,Blue,S2,1,4,0,1,2,19.7,5,1,3.7,3.1,5,61,68,L,fast setup,0,4,
+M26-T10-5,T10,5,Blue,S1,1,6,0,0,4,17.6,5,0,3.1,2.5,5,70,85,L,hesitant under defense,0,6,
+M27-T10-6,T10,6,Blue,S2,0,4,2,1,4,17.5,7,0,3.8,3.3,5,80,46,W,inconsistent intake timing,0,4,
+M24-T11-1,T11,1,Blue,S4,1,3,1,0,2,19.6,0,1,1.1,3.2,4,70,55,W,,0,3,missing_qualitative_note
+M25-T11-2,T11,2,Blue,S1,1,5,2,1,2,16.8,7,0,1.0,4.1,4,80,72,W,fast setup,0,5,
+M26-T11-3,T11,3,Red,S2,1,1,0,0,2,22.6,7,1,1.0,4.0,4,32,66,L,fast setup,0,1,
+M27-T11-4,T11,4,Red,S4,1,6,1,0,2,18.5,7,0,1.0,3.9,4,67,87,L,,0,6,missing_qualitative_note
+M28-T11-5,T11,5,Red,S3,1,4,0,0,1,21.4,4,1,1.0,4.2,5,65,53,W,stable cycles,0,4,
+M29-T11-6,T11,6,Blue,S4,0,7,1,0,2,18.2,3,0,1.2,4.0,4,66,48,W,hesitant under defense,0,7,
+M26-T12-1,T12,1,Red,S2,1,7,2,0,4,,7,0,2.3,4.3,3,65,40,W,strong late-match recovery,0,7,missing_cycle_time
+M27-T12-2,T12,2,Blue,S1,1,6,2,0,3,,7,0,1.0,4.7,5,65,79,L,hesitant under defense,0,6,missing_cycle_time
+M28-T12-3,T12,3,Blue,S4,1,7,1,0,2,17.9,1,1,1.5,4.8,4,86,89,L,hesitant under defense,0,7,
+M29-T12-4,T12,4,Red,S4,0,7,1,1,3,7.5,4,0,2.3,5.0,5,59,48,W,,0,7,missing_qualitative_note; cycle_time_low_outlier
+M30-T12-5,T12,5,Red,S2,0,6,0,1,3,17.7,2,0,2.2,4.2,4,60,94,L,good field awareness,0,6,
+M31-T12-6,T12,6,Blue,S1,1,7,0,0,2,16.9,0,0,1.0,4.6,3,87,45,W,fast setup,0,7,
+M28-T13-1,T13,1,Red,S4,0,0,1,1,0,17.4,4,1,5.0,4.3,5,28,87,L,hesitant under defense,0,0,alliance_score_low_outlier
+M29-T13-2,T13,2,Red,S1,1,4,2,0,0,13.4,7,0,4.0,4.2,4,54,86,L,strong late-match recovery,0,4,
+M30-T13-3,T13,3,Red,S3,0,4,1,0,0,10.5,4,0,4.1,5.0,3,48,90,L,,0,4,missing_qualitative_note
+M31-T13-4,T13,4,Red,S3,1,3,5,1,1,14.8,5,0,4.7,4.7,4,78,70,W,,0,3,missing_qualitative_note
+M32-T13-5,T13,5,Blue,S2,1,4,3,0,2,15.5,8,0,3.9,3.9,4,74,76,L,hesitant under defense,0,4,
+M33-T13-6,T13,6,Red,S4,1,3,4,0,2,14.8,7,0,5.0,5.0,5,49,94,L,clean positioning,0,3,
+M30-T14-1,T14,1,Blue,S3,1,7,0,0,5,14.9,3,0,3.6,3.5,3,73,66,W,strong late-match recovery,0,7,
+M31-T14-2,T14,2,Red,S2,1,7,1,1,4,17.2,5,0,3.1,3.1,5,69,92,L,hesitant under defense,0,7,
+M32-T14-3,T14,3,Blue,S4,1,6,1,0,5,17.4,0,0,3.9,3.1,5,71,48,W,clean positioning,0,6,
+M33-T14-4,T14,4,Red,S1,1,5,1,1,2,17.2,2,0,2.3,2.9,3,62,67,L,stable cycles,0,5,
+M34-T14-5,T14,5,Blue,S3,1,7,3,0,5,12.3,2,0,4.2,2.7,5,72,88,L,,0,7,missing_qualitative_note
+M35-T14-6,T14,6,Blue,S4,0,5,0,1,5,14.2,5,0,3.7,2.3,5,78,88,L,minor traffic delays,0,5,
+M32-T15-1,T15,1,Blue,S3,1,5,3,1,4,16.3,3,0,2.7,3.0,5,71,81,L,clean positioning,0,5,
+M33-T15-2,T15,2,Red,S2,1,5,1,0,5,16.5,8,0,3.4,3.2,5,60,88,L,minor traffic delays,0,5,
+M34-T15-3,T15,3,Blue,S1,1,4,1,0,3,15.8,6,0,3.0,3.2,5,56,51,W,,0,4,missing_qualitative_note
+M35-T15-4,T15,4,Blue,S3,1,5,3,0,4,17.3,5,0,2.9,2.0,5,88,56,W,hesitant under defense,0,5,
+M36-T15-5,T15,5,Red,S3,1,6,2,1,5,17.8,7,0,2.9,3.2,4,70,45,W,strong late-match recovery,0,6,
+M01-T15-6,T15,6,Blue,S2,1,5,4,0,3,15.0,8,0,1.8,2.9,4,57,94,L,,0,5,missing_qualitative_note
+M34-T16-1,T16,1,Blue,S4,1,2,0,1,3,22.8,7,0,3.6,4.6,4,67,90,L,good field awareness,0,2,
+M35-T16-2,T16,2,Red,S2,1,0,1,1,3,23.2,5,0,2.5,3.8,5,49,83,L,hesitant under defense,0,0,
+M36-T16-3,T16,3,Blue,S1,1,0,1,1,3,21.0,8,0,3.8,4.1,3,44,78,L,stable cycles,0,0,
+M01-T16-4,T16,4,Red,S3,1,5,1,1,4,18.9,6,0,3.5,4.2,3,79,84,L,strong late-match recovery,0,5,
+M02-T16-5,T16,5,Red,S2,0,3,1,1,3,18.7,9,0,2.3,4.8,4,42,95,L,inconsistent intake timing,0,3,
+M03-T16-6,T16,6,Red,S1,1,3,2,1,4,17.0,7,0,3.8,4.1,4,55,50,W,hesitant under defense,0,3,
+M36-T17-1,T17,1,Red,S4,1,2,3,0,3,15.8,2,0,1.0,4.8,4,54,82,L,minor traffic delays,0,2,
+M01-T17-2,T17,2,Blue,S3,1,7,2,1,5,18.6,4,0,1.2,4.7,5,91,48,W,good field awareness,0,7,
+M02-T17-3,T17,3,Blue,S2,1,5,2,1,4,17.8,6,0,1.2,5.0,5,63,78,L,strong late-match recovery,0,5,
+M03-T17-4,T17,4,Blue,S1,1,7,2,1,5,16.7,7,0,1.5,4.9,4,88,43,W,hesitant under defense,0,7,
+M04-T17-5,T17,5,Blue,S1,1,7,1,1,4,19.6,10,0,1.3,5.0,3,67,54,W,stable cycles,0,7,
+M05-T17-6,T17,6,Blue,S2,0,7,2,1,4,15.8,7,0,1.3,4.7,3,66,69,L,strong late-match recovery,0,7,

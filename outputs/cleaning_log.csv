@@ -1,0 +1,7 @@
+issue,match_id,team_id,action,impact
+Exact duplicate removed,M23-T09-4,T09,Removed second identical copy; retained first copy.,Prevents one match from double-weighting team aggregates.
+Extreme CL observation,M14-T05-3,T05,"Retained raw value 28, flagged, and excluded that CL value from team composite calculations.",Low scout confidence (2/5) and a value far beyond the field IQR could otherwise inflate T05.
+Missing cycle times,M26-T12-1; M27-T12-2,T12,Retained as missing; no imputation.,T12 speed conclusions have lower confidence because only four cycle-time observations remain.
+Cycle-time outliers,M11-T04-2; M19-T07-4; M29-T12-4,T04; T07; T12,Flagged but retained because the supplied materials do not define them as impossible.,The two slow outliers coincide with breakdown-prone teams; the 7.5 s T12 value makes T12 speed especially uncertain.
+Alliance score is contextual,ALL,ALL,"Excluded alliance_score, opponent_score, and win rate from the robot performance composite.","These values describe the whole alliance, not an individual robot, so direct attribution would be misleading."
+Ambiguous M## match prefixes / same-alliance scorelines,ALL M## prefixes,ALL,Flagged at dataset level; did not merge matches or change individual scouting stats.,36/36 prefixes have conflicting same-color scorelines. Confirm whether M## means a global match ID before using context rankings or cross-match joins.

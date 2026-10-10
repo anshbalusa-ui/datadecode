@@ -1,0 +1,6 @@
+# Core analysis + report/visualizations
+matplotlib>=3.8
+python-docx>=1.1
+# Google Colab notebook display and XLSX export
+pandas>=2.0
+openpyxl>=3.1

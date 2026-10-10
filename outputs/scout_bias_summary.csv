@@ -1,0 +1,5 @@
+scout_id,observations,avg_defense_rating,avg_driver_consistency,avg_scout_confidence,avg_cycle_time_sec
+S1,25,2.67,3.61,4,17.69
+S2,29,2.8,3.78,4.28,17.74
+S3,24,3.13,3.62,3.96,17.96
+S4,30,3.18,3.56,4.23,17.6

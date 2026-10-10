@@ -1,0 +1,19 @@
+rank,team_id,overall_score,avg_total_actions,avg_cycle_sec,auto_rate,motif_rate,avg_penalty,breakdown_rate,avg_defense,avg_driver,reliability,reliability_index,major_strengths,major_weaknesses,archetype,confidence,rank_sensitivity
+1,T08,68.5,13.17,19.73,1,0.833,5.67,0,4.68,2.2,Medium,57.65,defense (100th pct); objectives (82nd pct); scoring volume (75th pct),cycle speed (24th pct),Two-way primary scorer,High,1-1
+2,T14,60.81,11.5,15.53,0.833,0.5,2.83,0,3.47,2.93,Medium,52.94,cycle speed (76th pct); defense (68th pct); scoring volume (63rd pct),objectives (43rd pct),Efficient primary scorer,Medium,2-6
+3,T05,60.51,12.8,17.03,1,0.333,6.5,0,3.03,2.25,Medium,55.88,scoring volume (69th pct),defense (47th pct),Overflow scoring specialist,Medium,2-4
+4,T17,58.29,12,17.38,0.833,0.833,6,0,1.25,4.85,High,67.06,scoring volume (68th pct); reliability (67th pct); objectives (62nd pct),defense (6th pct),Driver-led primary scorer,Medium,3-6
+5,T07,57.74,13.83,19.72,1,0.833,1.67,0.5,1.27,4.4,Medium,47.65,objectives (82nd pct); scoring volume (73rd pct),defense (12th pct); cycle speed (29th pct),High-risk / high-ceiling scorer,Medium,5-8
+6,3470,56.66,10.5,15.03,1,0.5,4,0,2.85,4.15,Medium,63.53,cycle speed (88th pct); reliability (64th pct); objectives (63rd pct),defense (41st pct),"Fast, consistent balanced scorer",Medium,5-9
+7,T02,56.49,10.67,18.35,1,0.667,4.67,0,3.47,4.23,High,71.18,objectives (72nd pct); reliability (71st pct); defense (68th pct),cycle speed (41st pct),Consistent low-risk balanced robot,Medium,2-8
+8,T15,56.34,11.33,16.45,1,0.333,6.17,0,2.78,2.92,Medium,56.47,cycle speed (65th pct),defense (35th pct),Consistent secondary scorer,High,7-8
+9,T06,55.49,13.5,19.82,0.833,0.667,0.5,0.167,2.47,3.43,Medium,51.76,scoring volume (76th pct),cycle speed (18th pct); defense (29th pct),Primary scorer,Medium,4-9
+10,T09,53.25,8.33,15.32,1,0.667,3.83,0.333,4.15,3.07,Low,44.71,defense (88th pct); cycle speed (82nd pct); objectives (72nd pct),scoring volume (32nd pct),Defensive support specialist,Medium,10-12
+11,T12,49.54,10.5,15.0,0.667,0.333,3.5,0.167,1.72,4.6,Medium,55.29,cycle speed (94th pct),objectives (16th pct); defense (18th pct),Fast CL scoring specialist,Low,11-11
+12,T10,47.85,9,16.4,0.667,0.833,6.5,0.167,3.9,2.87,Low,28.82,defense (82nd pct); cycle speed (71st pct),reliability (29th pct); scoring volume (39th pct),Defensive support specialist,High,12-13
+13,T01,47.75,10.33,18.25,0.833,0,2.67,0.167,3.88,4.58,Medium,48.24,defense (76th pct),objectives (19th pct),Support / defensive robot,Medium,10-13
+14,T13,42.46,6.5,14.4,0.667,0.333,5.83,0.167,4.45,4.52,Low,36.47,cycle speed (100th pct); defense (94th pct),objectives (16th pct); scoring volume (23rd pct); reliability (36th pct),Defensive support specialist,High,14-15
+15,T03,39.66,11.67,20.0,0.667,0.333,3.83,0,3.13,3.58,Medium,57.06,reliability (57th pct),cycle speed (12th pct); objectives (16th pct),Overflow scoring specialist,Low,14-15
+16,T16,34.43,6.5,20.27,0.833,1,7,0,3.25,4.27,Low,44.71,objectives (69th pct),cycle speed (0th pct); scoring volume (25th pct),Objective / motif specialist,Medium,16-17
+17,T04,32.31,7.83,20.17,1,0.5,8.5,0.333,2.27,2.83,Low,21.76,objectives (63rd pct),cycle speed (6th pct); reliability (22nd pct); defense (24th pct),High-risk low-output robot,High,16-17
+18,T11,21.93,7,19.52,0.833,0.167,4.67,0.5,1.05,3.9,Low,38.82,reliability (39th pct),defense (0th pct); scoring volume (17th pct); objectives (22nd pct),High-risk low-output robot,High,18-18
